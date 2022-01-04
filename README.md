@@ -25,7 +25,7 @@ $ virtualenv venv --python=python3
 $ source venv/bin/activate
 
 # change directory to the repo where we have requirements file
-$ cd f2021-asn3-JauraSeerat/
+$ cd N-gram_Language_Models/
 
 # Install python dependencies
 $ pip3 install  -r requirements.txt 
